@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      :  "关注微信公众号[橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)* 回复 **密钥** 获取密码，然后点击左下角[设置](/#/settings)按钮输入密码后解锁**免费使用**。\n\n **提问:** 有Mid journey对接绘图网页吗?\n\n **回答:** 有的，关注公众号或者加VX群可了解!\n\n **需要定制相同网站可关注微信公众号或是加微信群联系.**\n\n **可对接GPT4.0，Mid journey绘图网站.**\n\n 常见问题与使用说明点击查看**[https://t.zsxq.com/0eRKoeoFI](https://t.zsxq.com/0eRKoeoFI)**\n\n 卡顿或无响应? 可能是用户量太大，点这里获得独立账号 KEY 使用](https://t.zsxq.com/0eRKoeoFI)\n \n欢迎来聊聊[知识星球](https://t.zsxq.com/0eRKoeoFI)或VX公众号 [橘座AI](https://mp.weixin.qq.com/s/eU-2wgq4dokK_ezp7gJPlA)，\n ",
   },
   Auth: {
     Title: "需要密码",
